@@ -1,4 +1,4 @@
-# Space-Miner-Star-Citizen-
+# Space-Mining-Star-Citizen-
 Dear miners, 
 
 I wrote you a program with which you can determine the value of a stone directly. 
